@@ -1,8 +1,4 @@
-A = int(input())
-B = int(input())
-x = A + B
-print('X =',x)
-
-
-
-
+a = int(input())
+b = int(input())
+x = a + b
+print('X =', x)
