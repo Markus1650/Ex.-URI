@@ -1,0 +1,5 @@
+usu = str(input())
+Sal = float(input())
+ven = float(input())
+bonus = Sal + (ven * 15/100)
+print("TOTAL = R$ {:.2f}".format(bonus))
